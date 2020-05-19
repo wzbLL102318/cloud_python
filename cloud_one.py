@@ -1,12 +1,9 @@
-#!/usr/bin/python3
-
+# -*- coding: utf-8 -*-
 # 打印数据
-
 '''
 打印数据
 '''
-
 """
 打印数据
 """
-print ("hello world")
+print("hello python")
